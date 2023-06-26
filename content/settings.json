@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/taurus",
   "logo": "/img/uploads/taurus-30.png",
   "name": "Taurus Barbearia",
-  "short_name": "taurus",
+  "short_name": "Taurus",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 51420,
-  "description": "taurus",
+  "description": "Loja Taurus",
   "large_icon": "/img/large-icon.png"
 }
